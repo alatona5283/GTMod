@@ -15,7 +15,7 @@ This is a Fall 2024 reading course on moduli of curves at GT. We will meet weekl
 
 ## Participation
 
-To participate, you must give at least one 30-50  minute seminar on one of the weekly topics listed in the schedule tab. The schedule also includes weekly reading. 
+There will be weekly 40-50 minute talks by participants. The weekly reading is included in the schedule tab.
 
 ## Resources
 
