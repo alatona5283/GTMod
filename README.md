@@ -15,7 +15,7 @@ This is a Fall 2024 reading course on moduli of curves at GT. We will meet weekl
 
 ## Participation
 
-There will be weekly 40-50 minute talks by participants. The weekly reading is included in the schedule tab.
+There will be weekly 40-50 minute talks by participants. The weekly reading is included in the [schedule](schedule) tab.
 
 ## Resources
 
@@ -26,7 +26,7 @@ We will loosely follow Harris and Morrison's "Moduli of Curves" text. We will oc
 (3) <a href="https://www.math.uni-bonn.de/~schmitt/ModCurves/Script.pdf">Schmitt's Notes</a> <br>
 (4) <a href="https://www.slmath.org/summer-schools/1067">SLmath Summer Lectures</a> <br>
 
-The [schedule](schedule) has the weekly reading. 
+
 
 
 
