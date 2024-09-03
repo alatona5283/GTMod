@@ -1,39 +1,32 @@
 ---
 layout: home
-title: Just the Class
+title: GT Moduli of Curves Reading Course
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Moduli of Curves @ GT
 ---
 
-# Just the Class
+## Welcome!
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This is a Fall 2024 reading course on moduli of curves at GT. We will meet weekly on Thursdays, starting September 12th. Location and exact time TBD.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Participation
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+To participate, you must give at least one 30-50  minute seminar on one of the weekly topics listed in the schedule tab. The schedule also includes weekly reading. 
 
-## Getting Started
+## Resources
 
-Getting started with Just the Class is simple.
+We will loosely follow Harris and Morrison's "Moduli of Curves" text. We will occasionally use the other sources below: 
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+(1) <a href="https://math.stanford.edu/~vakil/216blog/FOAGaug2922public.pdf">Vakil's Notes</a> <br>
+(2) <a href="https://link.springer.com/book/10.1007/978-1-4757-5323-3">ACGH I</a> <br>
+(3) <a href="https://www.math.uni-bonn.de/~schmitt/ModCurves/Script.pdf">Schmitt's Notes</a> <br>
+(4) <a href="https://www.slmath.org/summer-schools/1067">SLmath Summer Lectures</a> <br>
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+The [schedule](schedule) has the weekly reading. 
 
-### Local development environment
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
