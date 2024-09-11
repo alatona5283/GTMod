@@ -10,7 +10,7 @@ seo:
 
 ## Welcome!
 
-This is a Fall 2024 reading course on moduli of curves at GT. We will meet weekly on Thursdays at 2 pm, starting September 12th. Location TBD.
+This is a Fall 2024 reading course on moduli of curves at GT. We will meet weekly on Thursdays at 1 pm in Skiles 006, starting September 12th. 
 
 
 ## Participation
