@@ -2,7 +2,7 @@
 title: Algebraic Curves II (Sep 19)
 ---
 
-Aidan
+Akash
 : Vakil FOAG Ch. 20
   : [Notes](#)
 
