@@ -2,7 +2,7 @@
 title: Algebraic Curves I (Sep 12)
 ---
 
-Akash
+Aidan
 : ACGH pp. 1-14
   : [Notes](#)
 
